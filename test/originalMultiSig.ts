@@ -188,6 +188,12 @@ describe("MultiSigFactory", function() {
   })
 })
 
+describe("IERC20 Token", function() {
+  async function TokenSetUp() {
+    
+  }
+})
+
 // const ZERO_ADDRESS = "0x0000000000000000000000000000000000000000";
 
 // describe("SolomonMSG", function () {
